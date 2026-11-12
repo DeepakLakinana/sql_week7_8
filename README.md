@@ -5,3 +5,5 @@ This repository contains SQL coursework, assignments, and query execution output
 ## Structure
 - `week 7/`: Week 7 query execution outputs and screenshots
 - `week 8/`: Week 8 query execution outputs and screenshots
+- `supplierdb.sql`: SQL database schema and queries for the supplier database
+
